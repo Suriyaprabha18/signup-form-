@@ -1,0 +1,12 @@
+/* Custom styles for additional polish */
+body {
+    background-color: #f8f9fa;
+}
+
+.form-control:invalid {
+    border-color: #dc3545;
+}
+
+.form-control:valid {
+    border-color: #28a745;
+}
